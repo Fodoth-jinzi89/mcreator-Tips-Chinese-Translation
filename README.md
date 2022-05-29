@@ -1,2 +1,3 @@
 # mcreator-Tips-Chinese-Translation
-mcreator Tips的中文翻译
+mcreator Tips 中文翻译
+===
