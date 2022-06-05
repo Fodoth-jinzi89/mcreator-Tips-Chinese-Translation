@@ -17,3 +17,8 @@ mcreator Tips 中文翻译
 5.启动mcreator，然后点击右下角的设置，检查Tips是否变成 100 %
 
 6.如果Tips变成 100 % 恭喜你，安装成功了
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-sea-of-falling-stars)](https://github.com/anuraghazra/github-readme-stats)
