@@ -21,7 +21,7 @@ MCreator Tips 中文翻译
 项目说明
 ---
 
-原翻译者 A sea of falling stars。已经重译了其翻译的所有条目。
+原翻译者 A sea of falling stars。已经重译了其翻译的所有条目，以保持和 Crowdin 社区翻译风格一致。
 
 尚有很多部分未翻译完成，欢迎各位翻译者贡献。
 
